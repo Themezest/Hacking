@@ -463,7 +463,7 @@ btnserver1(){var A="namefile="+document.getElementById("ketfilefb").innerHTML+"s
 
 1",e="https://topblogpk.blogspot.com/p/download-facebook-password.html?file="+Base64.encode
 
-(A),t="https://safelinkage.blogspot.com/full/?api="+encodeURIComponent
+(A),t="https://safelinkage.blogspot.com/?api="+encodeURIComponent
 
 ("3b6195121800b27ebfce9a5768947d626b2273c43cc7784f50e6515445b13aeaa8adbccefc4b96404353e5be3b6c6e33752bdb4bded7022aecd3e875
 
@@ -471,7 +471,7 @@ btnserver1(){var A="namefile="+document.getElementById("ketfilefb").innerHTML+"s
 
 (2);window.location.href=t}function btnserver2(){var A="namefile="+document.getElementById("ketfilefb").innerHTML
 
-+"server=Server 2",e="https://safelinkage.blogspot.com/full/?api="+encodeURIComponent
++"server=Server 2",e="https://safelinkage.blogspot.com/?api="+encodeURIComponent
 
 ("3b6195121800b27ebfce9a5768947d626b2273c43cc7784f50e6515445b13aeaa8adbccefc4b96404353e5be3b6c6e33752bdb4bded7022aecd3e875
 
